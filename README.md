@@ -21,9 +21,9 @@ Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 <br>
 <br>
 # 📁 프로젝트 구조
-Tell_me_Dominant_Colors.py: 주요 색상 추출 및 분석을 위한 핵심 스크립트
-DB.zip, Domi_Cols.zip, the_Last.zip: 데이터베이스 및 학습 모델 관련 파일
-result1.png ~ result4.png: 프로그램 실행 결과 예시 이미지
+Tell_me_Dominant_Colors.py: 주요 색상 추출 및 분석을 위한 핵심 스크립트<br>
+DB.zip, Domi_Cols.zip, the_Last.zip: 데이터베이스 및 학습 모델 관련 파일<br>
+result1.png ~ result4.png: 프로그램 실행 결과 예시 이미지<br>
 READ_ME.txt: 프로젝트에 대한 추가 설명 파일
 <br>
 <br>
