@@ -57,7 +57,16 @@ git clone https://github.com/AlmightyDenver/Graduation-portfolio.git
 pip install -r requirements.txt
 
 ### Tell_me_Dominant_Colors.py를 실행하여 주요 색상 추출 기능을 테스트합니다.
+ - 
+### 🔍 3_Dominant_Color_Webcam_ver.py 사용 시 유의사항
 
+- `RGB_REAL.txt` 또는 `RGB_REAL_KR.txt` 파일이 필요합니다.
+- 코드 내 해당 경로는 사용자의 실행 환경에 맞게 수정해주세요.
+- 고대비 시각적 안내를 위해 `H2GTRE.TTF` 폰트 파일이 필요합니다 (폰트는 `/fonts` 폴더에 위치).
+- 실행 중 `q` 키를 누르면 프로그램이 종료됩니다.
+<br>
+<br>
+<br>
 # 🖼️ 결과 예시
 프로그램 실행 결과 예시 이미지는 다음과 같습니다:
 ![이미지 설명](result1.png)
