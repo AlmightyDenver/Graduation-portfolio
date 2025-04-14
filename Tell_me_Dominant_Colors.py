@@ -1,3 +1,5 @@
+#-*- coding: utf-8 -*-
+
 """
 3_Dominant_Color_Webcam_ver.py needs rgb.txt
 press 'q' key when you want exit
@@ -11,11 +13,14 @@ import os
 import tensorflow as tf
 import sys
 from PIL import ImageFont, ImageDraw, Image
-#-*- coding: utf-8 -*-
 # capturing video through webcam
 from utils import label_map_util
 from utils import visualization_utils as vis_util
+
+# capture webcam
 cap = cv2.VideoCapture(0)
+
+# Add path
 sys.path.append("..")
 
 
