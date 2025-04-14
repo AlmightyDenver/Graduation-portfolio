@@ -10,24 +10,24 @@
 <br>
 ## 기술 스택:
 Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
-
-
-
-   
+<br>
+<br>
+<br>
 ## 주요 기능:
 이미지에서 주요 색상 추출 및 분석
 옷의 패턴 인식 (예: 스트라이프, 도트 등)
 시각적 결과 출력 및 향후 음성 안내 기능 확장 가능성
-
-
-
-   
+<br>
+<br>
+<br>
 # 📁 프로젝트 구조
 Tell_me_Dominant_Colors.py: 주요 색상 추출 및 분석을 위한 핵심 스크립트
 DB.zip, Domi_Cols.zip, the_Last.zip: 데이터베이스 및 학습 모델 관련 파일
 result1.png ~ result4.png: 프로그램 실행 결과 예시 이미지
 READ_ME.txt: 프로젝트에 대한 추가 설명 파일
-
+<br>
+<br>
+<br>
 # 🚀 시작하기
 ### 레포지토리를 클론합니다:
 git clone https://github.com/AlmightyDenver/Graduation-portfolio.git
@@ -49,8 +49,9 @@ pip install -r requirements.txt
 다양한 패턴 인식 기능 추가
 음성 안내 기능 통합
 모바일 애플리케이션으로의 확장
-
-
+<br>
+<br>
+<br>
 # 졸논 최종s.zip 설명
 1. DB
  - rgb.txt : color DB원본
