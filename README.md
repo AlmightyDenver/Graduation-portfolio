@@ -64,6 +64,7 @@ Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 
 ### Tell_me_Dominant_Colors.py를 실행하여 주요 색상 추출 기능을 테스트합니다.
 <br>
+
 ### 🔍 3_Dominant_Color_Webcam_ver.py 사용 시 유의사항
 
 - `RGB_REAL.txt` 또는 `RGB_REAL_KR.txt` 파일이 필요합니다.
