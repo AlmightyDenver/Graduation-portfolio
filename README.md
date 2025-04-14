@@ -49,7 +49,8 @@ Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 <br>
 <br>
 # 🚀 시작하기
-레포지토리를 클론합니다:
+<br>
+### 레포지토리를 클론합니다:
 `git clone https://github.com/AlmightyDenver/Graduation-portfolio.git `
 
 ### 필요한 패키지를 설치합니다:
