@@ -3,16 +3,19 @@
 <br>
 <br>
 <br>
+
 # 🧠 프로젝트 개요
  - 목표: 시각장애인이 옷의 색상과 패턴을 실시간으로 인식할 수 있도록 지원하는 프로그램 개발
 <br>
 <br>
 <br>
+
 ## 기술 스택:
 Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 <br>
 <br>
 <br>
+
 ## 주요 기능:
 이미지에서 주요 색상 추출 및 분석
 옷의 패턴 인식 (예: 스트라이프, 도트 등)
@@ -20,6 +23,7 @@ Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 <br>
 <br>
 <br>
+
 # 📁 프로젝트 구조
 📦 Graduation-portfolio<br>
 ├── 📁 the_Last.zip<br>
@@ -50,8 +54,8 @@ Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 <br>
 
 # 🚀 시작하기
-
 <br>
+
 ### 레포지토리를 클론합니다:
 `git clone https://github.com/AlmightyDenver/Graduation-portfolio.git `
 
@@ -69,6 +73,7 @@ Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 <br>
 <br>
 <br>
+
 # 🖼️ 결과 예시
 프로그램 실행 결과 예시 이미지는 다음과 같습니다:
 ![이미지 설명](result1.png)
@@ -78,6 +83,7 @@ Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 <br>
 <br>
 <br>
+
 # 📌 향후 개선 사항
 다양한 패턴 인식 기능 추가
 음성 안내 기능 통합
