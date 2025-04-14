@@ -1,10 +1,8 @@
 """
 3_Dominant_Color_Webcam_ver.py needs rgb.txt
 press 'q' key when you want exit
-
-*** Made by Almighty_Denver ***
-
 """
+
 import time
 from sklearn.cluster import KMeans
 import cv2
