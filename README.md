@@ -8,7 +8,8 @@
 
 
    
-## 기술 스택: Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
+## 기술 스택:
+Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 
 
 
@@ -36,17 +37,17 @@ pip install -r requirements.txt
 
 ### Tell_me_Dominant_Colors.py를 실행하여 주요 색상 추출 기능을 테스트합니다.
 
-🖼️ 결과 예시
+# 🖼️ 결과 예시
 프로그램 실행 결과 예시 이미지는 다음과 같습니다:
 
 
-📌 향후 개선 사항
+# 📌 향후 개선 사항
 다양한 패턴 인식 기능 추가
 음성 안내 기능 통합
 모바일 애플리케이션으로의 확장
 
 
-졸논 최종s.zip 설명
+# 졸논 최종s.zip 설명
 1. DB
  - rgb.txt : color DB원본
  - RGB_REAL : gray  몇개 삭제, 중복 제거
