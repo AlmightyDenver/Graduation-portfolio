@@ -40,6 +40,9 @@ pip install -r requirements.txt
 # 🖼️ 결과 예시
 프로그램 실행 결과 예시 이미지는 다음과 같습니다:
 ![이미지 설명](result1.png)
+![이미지 설명](result2.png)
+![이미지 설명](result3.png)
+![이미지 설명](result4.png)
 
 
 # 📌 향후 개선 사항
