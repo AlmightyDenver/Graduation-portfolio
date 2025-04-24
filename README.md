@@ -49,7 +49,6 @@ Python, OpenCV, 머신러닝 기반 색상 및 패턴 분석
 ├── 📄 result3.png<br>
 ├── 📄 result4.png<br>
 ├── 📄 README.md                            # 프로젝트 소개 및 사용 방법<br>
-└── 📄 READ_ME.txt                          # 원본 설명 텍스트<br>
 <br>
 <br>
 <br>
